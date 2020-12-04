@@ -17,3 +17,4 @@
 
 8.通过URP管线试用了几种后处理效果
 
+![image](https://github.com/ixianren/Game_Engine_6/commit/42e951f9918349fb58c61e34941ac3090c8306e9)
